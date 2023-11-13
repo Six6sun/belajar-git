@@ -1,0 +1,4 @@
+belajar git
+- Konsisten belajar web
+- membuat platform mengenai info perkakas
+- membuat forum diskusi antar pengguna perkakas
